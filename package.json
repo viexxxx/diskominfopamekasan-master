@@ -15,7 +15,7 @@
     "build": "webpack --mode production"
   },
   "engines": {
-    "node": "16.x"
+    "node": "22.x"
   },
   "name": "diskominfopamekasan",
   "version": "1.0.0",
