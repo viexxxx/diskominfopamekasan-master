@@ -1,0 +1,42 @@
+<div class="price-section">
+    <div class="row">
+        <!-- Kolom 1 -->
+        <div class="col-lg-6 col-md-12">
+            <h3 class="table-title">Harga Rata-Rata<br><span class="highlight">Harian Nasional</span></h3>
+            <div class="custom-table-wrapper">
+                <table class="custom-table">
+                    <thead>
+                        <tr>
+                            <th>Komoditas</th>
+                            <th>Harga</th>
+                        </tr>
+                    </thead>
+                    <tbody>
+                    <?php include $_SERVER['DOCUMENT_ROOT'] . '/views/average.php'; ?>
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+        <!-- Kolom 2 -->
+        <div class="col-lg-6 col-md-12">
+            <h3 class="table-title">Harga Rata-Rata<br>
+                <span class="highlight" id="kabupaten-title">Harian Pamekasan</span>
+            </h3>
+            <div class="custom-table-wrapper">
+                <table class="custom-table">
+                    <thead>
+                        <tr>
+                            <th>Komoditas</th>
+                            <th>Harga</th>
+                        </tr>
+                    </thead>
+                    <tbody id="average-table">
+                    <?php include $_SERVER['DOCUMENT_ROOT'] . '/views/average_kab.php'; ?>                                                                                                                                                                                                                                                                            
+                    </tbody>
+                </table>
+            </div>
+        </div>
+
+    </div>
+</div> 

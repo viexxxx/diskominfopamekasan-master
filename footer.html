@@ -1,0 +1,88 @@
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Footer Diskominfo Pamekasan</title>
+    <link href="https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap" rel="stylesheet">
+    <style>
+        body {
+            margin: 0;
+            font-family: 'Poppins', sans-serif;
+        }
+        .footer {
+            background: linear-gradient(to bottom, #cde6a6, #88b04b);
+            padding: 20px;
+            text-align: center;
+            color: black;
+        }
+        .footer-container {
+            display: flex;
+            justify-content: space-around;
+            flex-wrap: wrap;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        .footer-section {
+            flex: 1;
+            min-width: 250px;
+            margin: 5px;
+            text-align: left;
+        }
+        .footer-section h3 {
+            font-size: 20px; /* Lebih besar */
+            font-weight: 600; /* Bold */
+        }
+        .footer-section p {
+            margin: 5px 0; /* Memperkecil jarak atas & bawah */
+        }
+        .footer-section a {
+            color: blue;
+            text-decoration: none;
+        }
+        .footer-section a:hover {
+            text-decoration: underline;
+        }
+        .footer .map-container {
+            text-align: left;
+        }
+        .footer .map-container iframe {
+            width: 100%;
+            max-width: 300px;
+            height: 150px;
+            border: 0;
+        }
+        .footer-bottom {
+            margin-top: 10px;
+            text-align: center;
+            font-size: 14px;
+            font-weight: bold;
+        }
+    </style>
+</head>
+<body>
+    <footer class="footer">
+        <div class="footer-container">
+            <div class="footer-section">
+                <h3>📌 Link Pengaduan</h3>
+                <p>Laporan Pengaduan klik <a href="https://lapor.go.id">lapor.go.id</a></p>
+                <p>Laporan tindak pidana korupsi klik <a href="https://docs.google.com/forms/d/e/1FAIpQLSeGq7QXoo8h-02Om8l6bsNF4Y3OSdDxFNpE5AuJkc3zS9WP2A/viewform">WBS Inspektorat</a></p>
+                <p>Pelaporan gratifikasi klik <a href="https://gol.kpk.go.id">gol.kpk.go.id</a></p>
+            </div>
+            <div class="footer-section">
+                <h3>📞 Kontak Kami</h3>
+                <p>Kantor Dinas Komunikasi dan Informatika Pamekasan</p>
+                <p>Jl. Jokotole Gg. IV No. 1, Kel. Barurambat Kota, Kec. Pamekasan, Kabupaten Pamekasan, Jawa Timur 69317</p>
+                <p>Email: <a href="mailto:diskominfo@pamekasankab.go.id">diskominfo@pamekasankab.go.id</a></p>
+            </div>
+            <div class="footer-section map-container">
+                <h3>🗺️ Map</h3>
+                <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3958.591785116312!2d113.47447707499984!3d-7.173630492857451!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x2dd7891c91c9c1df%3A0x87bbf4e3f8e7cf65!2sDinas%20Komunikasi%20dan%20Informatika%20Kabupaten%20Pamekasan!5e0!3m2!1sid!2sid!4v1718111111111"></iframe>
+            </div>
+        </div>
+        <div class="footer-bottom">
+            2025 Dinas Komunikasi dan Informatika Kabupaten Pamekasan
+        </div>
+    </footer>
+</body>
+</html>

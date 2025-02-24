@@ -1,0 +1,4797 @@
+🔍 Tanggal: 1970-01-01 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1970-01-01 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1970-01-01 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1970-01-01 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-31 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-31 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-31 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-31 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-30 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-30 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-30 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-30 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-29 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-29 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-29 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-29 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-28 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-28 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-28 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-28 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-27 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-27 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-27 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-26 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 1969-12-26 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 1969-12-26 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 1969-12-27 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-26 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 2025-02-12 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-12 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-12 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-11 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-11 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-11 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-11 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-10 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-10 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-10 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-09 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-09 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-09 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-09 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-08 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-08 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-07 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-07 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-07 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-07 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-06 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-06 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 2025-02-06 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 2025-02-12 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-12","harga":11500}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-12 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-12","harga":12000}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-12 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-12","harga":12600}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-11 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-11","harga":11500}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-11 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-11","harga":12650}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-11 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-11","harga":12600}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-11 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-11","harga":12000}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-10 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-10","harga":11000}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-10 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-10","harga":12650}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-10 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-10","harga":12600}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-09 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-09 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-09 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-09 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-08 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-08 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-08 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-08 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-07 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-07","harga":12650}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-07 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-07","harga":11000}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-07 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-07","harga":12000}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-07 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-07","harga":12600}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-06 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-06","harga":12700}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Hasil Akhir: Array
+(
+    [0] => Array
+        (
+            [date] => 2025-02-12
+            [harga] => 12650
+        )
+
+    [1] => Array
+        (
+            [date] => 2025-02-11
+            [harga] => 12650
+        )
+
+    [2] => Array
+        (
+            [date] => 2025-02-10
+            [harga] => 12650
+        )
+
+    [3] => Array
+        (
+            [date] => 2025-02-07
+            [harga] => 12650
+        )
+
+    [4] => Array
+        (
+            [date] => 2025-02-06
+            [harga] => 12700
+        )
+
+)
+
+
+🔍 Tanggal: 2025-02-06 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-06","harga":11000}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Hasil Akhir: Array
+(
+    [0] => Array
+        (
+            [date] => 2025-02-12
+            [harga] => 11500
+        )
+
+    [1] => Array
+        (
+            [date] => 2025-02-11
+            [harga] => 11500
+        )
+
+    [2] => Array
+        (
+            [date] => 2025-02-10
+            [harga] => 11000
+        )
+
+    [3] => Array
+        (
+            [date] => 2025-02-07
+            [harga] => 11000
+        )
+
+    [4] => Array
+        (
+            [date] => 2025-02-06
+            [harga] => 11000
+        )
+
+)
+
+
+🔍 Tanggal: 2025-02-06 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-06","harga":12600}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Hasil Akhir: Array
+(
+    [0] => Array
+        (
+            [date] => 2025-02-12
+            [harga] => 12600
+        )
+
+    [1] => Array
+        (
+            [date] => 2025-02-11
+            [harga] => 12600
+        )
+
+    [2] => Array
+        (
+            [date] => 2025-02-10
+            [harga] => 12600
+        )
+
+    [3] => Array
+        (
+            [date] => 2025-02-07
+            [harga] => 12600
+        )
+
+    [4] => Array
+        (
+            [date] => 2025-02-06
+            [harga] => 12600
+        )
+
+)
+
+
+🔍 Tanggal: 2025-02-06 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-06","harga":12000}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Hasil Akhir: Array
+(
+    [0] => Array
+        (
+            [date] => 2025-02-12
+            [harga] => 12000
+        )
+
+    [1] => Array
+        (
+            [date] => 2025-02-11
+            [harga] => 12000
+        )
+
+    [2] => Array
+        (
+            [date] => 2025-02-10
+            [harga] => 12000
+        )
+
+    [3] => Array
+        (
+            [date] => 2025-02-07
+            [harga] => 12000
+        )
+
+    [4] => Array
+        (
+            [date] => 2025-02-06
+            [harga] => 12000
+        )
+
+)
+
+
+🔍 Tanggal: 1970-01-01 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1970-01-01 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1970-01-01 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-31 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-31 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-31 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-30 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-30 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-30 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-30 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-29 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-29 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-29 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-28 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-28 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-28 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-28 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-27 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-27 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-26 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 1969-12-26 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-26 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 2025-02-12 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-12 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-12 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-11 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-11 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-11 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-10 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-10 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-10 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-09 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-09 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-09 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-08 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-08 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-08 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-08 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-07 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-07 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-07 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-06 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 2025-02-06 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 2025-02-06 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 2025-02-06 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 2025-02-12 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-12","harga":38333}],"kuantitas":1,"order":302,"satuan":"","variant":"Cabai Merah Besar","variant_id":9}]}
+
+🔍 Tanggal: 2025-02-12 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-12","harga":50000}],"kuantitas":1,"order":302,"satuan":"","variant":"Cabai Merah Besar","variant_id":9}]}
+
+🔍 Tanggal: 2025-02-12 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-12","harga":29333}],"kuantitas":1,"order":302,"satuan":"","variant":"Cabai Merah Besar","variant_id":9}]}
+
+🔍 Tanggal: 2025-02-11 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-11","harga":38333}],"kuantitas":1,"order":302,"satuan":"","variant":"Cabai Merah Besar","variant_id":9}]}
+
+🔍 Tanggal: 2025-02-11 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-11","harga":40000}],"kuantitas":1,"order":302,"satuan":"","variant":"Cabai Merah Besar","variant_id":9}]}
+
+🔍 Tanggal: 2025-02-10 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-10","harga":50000}],"kuantitas":1,"order":302,"satuan":"","variant":"Cabai Merah Besar","variant_id":9}]}
+
+🔍 Tanggal: 2025-02-10 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-10","harga":29333}],"kuantitas":1,"order":302,"satuan":"","variant":"Cabai Merah Besar","variant_id":9}]}
+
+🔍 Tanggal: 2025-02-10 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-10","harga":43333}],"kuantitas":1,"order":302,"satuan":"","variant":"Cabai Merah Besar","variant_id":9}]}
+
+🔍 Tanggal: 2025-02-09 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-08 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-07 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-07","harga":60000}],"kuantitas":1,"order":302,"satuan":"","variant":"Cabai Merah Besar","variant_id":9}]}
+
+🔍 Tanggal: 2025-02-07 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-07","harga":58000}],"kuantitas":1,"order":302,"satuan":"","variant":"Cabai Merah Besar","variant_id":9}]}
+
+🔍 Tanggal: 2025-02-07 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-07","harga":60000}],"kuantitas":1,"order":302,"satuan":"","variant":"Cabai Merah Besar","variant_id":9}]}
+
+🔍 Tanggal: 2025-02-06 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-06","harga":65000}],"kuantitas":1,"order":302,"satuan":"","variant":"Cabai Merah Besar","variant_id":9}]}
+
+🔍 Hasil Akhir: Array
+(
+    [0] => Array
+        (
+            [date] => 2025-02-12
+            [harga] => 50000
+        )
+
+    [1] => Array
+        (
+            [date] => 2025-02-11
+            [harga] => 50000
+        )
+
+    [2] => Array
+        (
+            [date] => 2025-02-10
+            [harga] => 50000
+        )
+
+    [3] => Array
+        (
+            [date] => 2025-02-07
+            [harga] => 60000
+        )
+
+    [4] => Array
+        (
+            [date] => 2025-02-06
+            [harga] => 65000
+        )
+
+)
+
+
+🔍 Tanggal: 2025-02-06 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-06","harga":58000}],"kuantitas":1,"order":302,"satuan":"","variant":"Cabai Merah Besar","variant_id":9}]}
+
+🔍 Tanggal: 2025-02-06 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-06","harga":29333}],"kuantitas":1,"order":302,"satuan":"","variant":"Cabai Merah Besar","variant_id":9}]}
+
+🔍 Hasil Akhir: Array
+(
+    [0] => Array
+        (
+            [date] => 2025-02-12
+            [harga] => 40000
+        )
+
+    [1] => Array
+        (
+            [date] => 2025-02-11
+            [harga] => 40000
+        )
+
+    [2] => Array
+        (
+            [date] => 2025-02-10
+            [harga] => 45000
+        )
+
+    [3] => Array
+        (
+            [date] => 2025-02-07
+            [harga] => 58000
+        )
+
+    [4] => Array
+        (
+            [date] => 2025-02-06
+            [harga] => 58000
+        )
+
+)
+
+
+🔍 Hasil Akhir: Array
+(
+    [0] => Array
+        (
+            [date] => 2025-02-12
+            [harga] => 29333
+        )
+
+    [1] => Array
+        (
+            [date] => 2025-02-11
+            [harga] => 29333
+        )
+
+    [2] => Array
+        (
+            [date] => 2025-02-10
+            [harga] => 29333
+        )
+
+    [3] => Array
+        (
+            [date] => 2025-02-07
+            [harga] => 29333
+        )
+
+    [4] => Array
+        (
+            [date] => 2025-02-06
+            [harga] => 29333
+        )
+
+)
+
+
+🔍 Hasil Akhir: Array
+(
+    [0] => Array
+        (
+            [date] => 2025-02-12
+            [harga] => 38333
+        )
+
+    [1] => Array
+        (
+            [date] => 2025-02-11
+            [harga] => 38333
+        )
+
+    [2] => Array
+        (
+            [date] => 2025-02-10
+            [harga] => 43333
+        )
+
+    [3] => Array
+        (
+            [date] => 2025-02-07
+            [harga] => 60000
+        )
+
+    [4] => Array
+        (
+            [date] => 2025-02-06
+            [harga] => 60000
+        )
+
+)
+
+
+🔍 Tanggal: 1970-01-01 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1970-01-01 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1970-01-01 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1970-01-01 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-31 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-31 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-31 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-30 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-30 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-30 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-30 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-29 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-29 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-28 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-28 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-28 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-28 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-27 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-27 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 1969-12-26 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-26 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 1969-12-26 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 1970-01-01 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1970-01-01 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1970-01-01 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-31 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-31 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-31 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-31 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-30 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-30 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-30 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-30 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-29 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-29 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-29 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-29 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-28 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-28 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-28 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-28 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-27 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-27 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-27 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-27 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-26 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 1969-12-26 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 1969-12-26 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 1970-01-01 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1970-01-01 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1970-01-01 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1970-01-01 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-31 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-31 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-31 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-31 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-30 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-30 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-30 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-30 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-29 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-29 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-29 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-29 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-28 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-28 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-28 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-28 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-27 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-27 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-27 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-27 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-26 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 1969-12-26 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 1969-12-26 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 1969-12-26 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 2025-02-12 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-12 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-12 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-12 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-11 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-11 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-11 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-11 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-10 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-10 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-10 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-09 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-09 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-09 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-09 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-08 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-08 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-08 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-08 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-07 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-07 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-07 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-07 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-06 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 2025-02-06 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 2025-02-06 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 2025-02-06 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 2025-02-12 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-12","harga":11500}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-12 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-12","harga":12600}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-12 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-12","harga":12650}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-11 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-11","harga":11500}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-11 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-11","harga":12600}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-12 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-12","harga":12000}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-10 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-10","harga":11000}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-10 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-10","harga":12600}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-11 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-11","harga":12000}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-09 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-09 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-09 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-10 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-10","harga":12000}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-08 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-08 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-08 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-09 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-07 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-07","harga":11000}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-07 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-07","harga":12650}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-07 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-07","harga":12600}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-06 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-06","harga":11000}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Hasil Akhir: Array
+(
+    [0] => Array
+        (
+            [date] => 2025-02-12
+            [harga] => 11500
+        )
+
+    [1] => Array
+        (
+            [date] => 2025-02-11
+            [harga] => 11500
+        )
+
+    [2] => Array
+        (
+            [date] => 2025-02-10
+            [harga] => 11000
+        )
+
+    [3] => Array
+        (
+            [date] => 2025-02-07
+            [harga] => 11000
+        )
+
+    [4] => Array
+        (
+            [date] => 2025-02-06
+            [harga] => 11000
+        )
+
+)
+
+
+🔍 Tanggal: 2025-02-06 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-06","harga":12700}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Hasil Akhir: Array
+(
+    [0] => Array
+        (
+            [date] => 2025-02-12
+            [harga] => 12650
+        )
+
+    [1] => Array
+        (
+            [date] => 2025-02-11
+            [harga] => 12650
+        )
+
+    [2] => Array
+        (
+            [date] => 2025-02-10
+            [harga] => 12650
+        )
+
+    [3] => Array
+        (
+            [date] => 2025-02-07
+            [harga] => 12650
+        )
+
+    [4] => Array
+        (
+            [date] => 2025-02-06
+            [harga] => 12700
+        )
+
+)
+
+
+🔍 Tanggal: 2025-02-06 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-06","harga":12600}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Hasil Akhir: Array
+(
+    [0] => Array
+        (
+            [date] => 2025-02-12
+            [harga] => 12600
+        )
+
+    [1] => Array
+        (
+            [date] => 2025-02-11
+            [harga] => 12600
+        )
+
+    [2] => Array
+        (
+            [date] => 2025-02-10
+            [harga] => 12600
+        )
+
+    [3] => Array
+        (
+            [date] => 2025-02-07
+            [harga] => 12600
+        )
+
+    [4] => Array
+        (
+            [date] => 2025-02-06
+            [harga] => 12600
+        )
+
+)
+
+
+🔍 Tanggal: 2025-02-07 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-07","harga":12000}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-06 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-06","harga":12000}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Hasil Akhir: Array
+(
+    [0] => Array
+        (
+            [date] => 2025-02-12
+            [harga] => 12000
+        )
+
+    [1] => Array
+        (
+            [date] => 2025-02-11
+            [harga] => 12000
+        )
+
+    [2] => Array
+        (
+            [date] => 2025-02-10
+            [harga] => 12000
+        )
+
+    [3] => Array
+        (
+            [date] => 2025-02-07
+            [harga] => 12000
+        )
+
+    [4] => Array
+        (
+            [date] => 2025-02-06
+            [harga] => 12000
+        )
+
+)
+
+
+🔍 Tanggal: 1970-01-01 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1970-01-01 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1970-01-01 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1970-01-01 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-31 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-31 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-31 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-31 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-30 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-30 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-29 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-29 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-29 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-29 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-28 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-28 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-28 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-28 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-27 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-27 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-27 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-26 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 1969-12-26 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 1969-12-26 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 1969-12-26 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 2025-02-12 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-12 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-12 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-12 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-11 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-11 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-10 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-10 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-10 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-10 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-09 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-09 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-09 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-09 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-08 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-08 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-08 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-08 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-07 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-07 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-07 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-07 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-12 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-12","harga":12600}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-06 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 2025-02-06 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 2025-02-06 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 2025-02-06 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 2025-02-11 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-11","harga":12600}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-12 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-12","harga":12000}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-12 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-12","harga":11500}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-12 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-12","harga":12650}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-10 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-10","harga":12600}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-11 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-11","harga":12000}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-11 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-11","harga":11500}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-11 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-11","harga":12650}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-09 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-10 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-10","harga":12000}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-10 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-10","harga":11000}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-10 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-10","harga":12650}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-09 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-08 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-09 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-09 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-07 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-07","harga":12600}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-08 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-08 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-06 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-06","harga":12600}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Hasil Akhir: Array
+(
+    [0] => Array
+        (
+            [date] => 2025-02-12
+            [harga] => 12600
+        )
+
+    [1] => Array
+        (
+            [date] => 2025-02-11
+            [harga] => 12600
+        )
+
+    [2] => Array
+        (
+            [date] => 2025-02-10
+            [harga] => 12600
+        )
+
+    [3] => Array
+        (
+            [date] => 2025-02-07
+            [harga] => 12600
+        )
+
+    [4] => Array
+        (
+            [date] => 2025-02-06
+            [harga] => 12600
+        )
+
+)
+
+
+🔍 Tanggal: 2025-02-07 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-07","harga":12650}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-07 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-07","harga":11000}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-06 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-06","harga":12000}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Hasil Akhir: Array
+(
+    [0] => Array
+        (
+            [date] => 2025-02-12
+            [harga] => 12000
+        )
+
+    [1] => Array
+        (
+            [date] => 2025-02-11
+            [harga] => 12000
+        )
+
+    [2] => Array
+        (
+            [date] => 2025-02-10
+            [harga] => 12000
+        )
+
+    [3] => Array
+        (
+            [date] => 2025-02-07
+            [harga] => 12000
+        )
+
+    [4] => Array
+        (
+            [date] => 2025-02-06
+            [harga] => 12000
+        )
+
+)
+
+
+🔍 Tanggal: 2025-02-06 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-06","harga":12700}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Hasil Akhir: Array
+(
+    [0] => Array
+        (
+            [date] => 2025-02-12
+            [harga] => 12650
+        )
+
+    [1] => Array
+        (
+            [date] => 2025-02-11
+            [harga] => 12650
+        )
+
+    [2] => Array
+        (
+            [date] => 2025-02-10
+            [harga] => 12650
+        )
+
+    [3] => Array
+        (
+            [date] => 2025-02-07
+            [harga] => 12650
+        )
+
+    [4] => Array
+        (
+            [date] => 2025-02-06
+            [harga] => 12700
+        )
+
+)
+
+
+🔍 Tanggal: 2025-02-06 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-06","harga":11000}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Hasil Akhir: Array
+(
+    [0] => Array
+        (
+            [date] => 2025-02-12
+            [harga] => 11500
+        )
+
+    [1] => Array
+        (
+            [date] => 2025-02-11
+            [harga] => 11500
+        )
+
+    [2] => Array
+        (
+            [date] => 2025-02-10
+            [harga] => 11000
+        )
+
+    [3] => Array
+        (
+            [date] => 2025-02-07
+            [harga] => 11000
+        )
+
+    [4] => Array
+        (
+            [date] => 2025-02-06
+            [harga] => 11000
+        )
+
+)
+
+
+🔍 Tanggal: 1970-01-01 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1970-01-01 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1970-01-01 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1970-01-01 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-31 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-31 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-31 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-30 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-30 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-30 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-29 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-29 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-29 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-29 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-28 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-28 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-28 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-27 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-27 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-27 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-27 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-26 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 1969-12-26 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 1969-12-26 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 1969-12-26 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 2025-02-12 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-12 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-11 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-11 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-11 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-11 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-10 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-10 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-10 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-10 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-09 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-09 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-09 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-08 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-08 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-08 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-08 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-07 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-07 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-07 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-07 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-12 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-12","harga":14675}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+🔍 Tanggal: 2025-02-06 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 2025-02-06 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-06 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 2025-02-06 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 2025-02-11 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-11","harga":14675}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+🔍 Tanggal: 2025-02-12 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-12","harga":14000}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+🔍 Tanggal: 2025-02-12 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-12","harga":13900}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+🔍 Tanggal: 2025-02-12 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-12","harga":13700}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+🔍 Tanggal: 2025-02-10 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-10","harga":14675}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+🔍 Tanggal: 2025-02-11 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-11","harga":14000}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+🔍 Tanggal: 2025-02-11 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-11","harga":13900}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+🔍 Tanggal: 2025-02-11 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-11","harga":13700}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+🔍 Tanggal: 2025-02-09 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-10 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-10","harga":14000}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+🔍 Tanggal: 2025-02-10 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-10","harga":13700}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+🔍 Tanggal: 2025-02-10 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-10","harga":13900}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+🔍 Tanggal: 2025-02-08 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-09 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-09 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-09 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-07 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-07","harga":14675}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+🔍 Tanggal: 2025-02-08 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-08 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-08 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-06 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-06","harga":14675}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+🔍 Hasil Akhir: Array
+(
+    [0] => Array
+        (
+            [date] => 2025-02-12
+            [harga] => 14675
+        )
+
+    [1] => Array
+        (
+            [date] => 2025-02-11
+            [harga] => 14675
+        )
+
+    [2] => Array
+        (
+            [date] => 2025-02-10
+            [harga] => 14675
+        )
+
+    [3] => Array
+        (
+            [date] => 2025-02-07
+            [harga] => 14675
+        )
+
+    [4] => Array
+        (
+            [date] => 2025-02-06
+            [harga] => 14675
+        )
+
+)
+
+
+🔍 Tanggal: 2025-02-07 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-07","harga":14000}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+🔍 Tanggal: 2025-02-07 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-07","harga":13700}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+🔍 Tanggal: 2025-02-07 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-07","harga":13900}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+🔍 Tanggal: 2025-02-06 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-06","harga":14000}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+🔍 Hasil Akhir: Array
+(
+    [0] => Array
+        (
+            [date] => 2025-02-12
+            [harga] => 14000
+        )
+
+    [1] => Array
+        (
+            [date] => 2025-02-11
+            [harga] => 14000
+        )
+
+    [2] => Array
+        (
+            [date] => 2025-02-10
+            [harga] => 14000
+        )
+
+    [3] => Array
+        (
+            [date] => 2025-02-07
+            [harga] => 14000
+        )
+
+    [4] => Array
+        (
+            [date] => 2025-02-06
+            [harga] => 14000
+        )
+
+)
+
+
+🔍 Tanggal: 2025-02-06 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-06","harga":13650}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+🔍 Hasil Akhir: Array
+(
+    [0] => Array
+        (
+            [date] => 2025-02-12
+            [harga] => 13700
+        )
+
+    [1] => Array
+        (
+            [date] => 2025-02-11
+            [harga] => 13700
+        )
+
+    [2] => Array
+        (
+            [date] => 2025-02-10
+            [harga] => 13700
+        )
+
+    [3] => Array
+        (
+            [date] => 2025-02-07
+            [harga] => 13700
+        )
+
+    [4] => Array
+        (
+            [date] => 2025-02-06
+            [harga] => 13650
+        )
+
+)
+
+
+🔍 Tanggal: 2025-02-06 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-06","harga":13900}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+🔍 Hasil Akhir: Array
+(
+    [0] => Array
+        (
+            [date] => 2025-02-12
+            [harga] => 13900
+        )
+
+    [1] => Array
+        (
+            [date] => 2025-02-11
+            [harga] => 13900
+        )
+
+    [2] => Array
+        (
+            [date] => 2025-02-10
+            [harga] => 13900
+        )
+
+    [3] => Array
+        (
+            [date] => 2025-02-07
+            [harga] => 13900
+        )
+
+    [4] => Array
+        (
+            [date] => 2025-02-06
+            [harga] => 13900
+        )
+
+)
+
+
+🔍 Tanggal: 1970-01-01 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1970-01-01 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1970-01-01 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1970-01-01 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-31 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-31 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-31 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-30 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-30 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-30 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-30 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-29 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-29 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-29 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-28 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-28 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-27 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-27 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-27 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-26 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 1969-12-26 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 1969-12-26 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 1970-01-01 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1970-01-01 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1970-01-01 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1970-01-01 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-31 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-31 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-31 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-31 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-30 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-30 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-30 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-30 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-29 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-29 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-29 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-29 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-28 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-28 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-28 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-27 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-27 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-27 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-27 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-26 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 1969-12-26 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 1969-12-26 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 1969-12-26 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 1970-01-01 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1970-01-01 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1970-01-01 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1970-01-01 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-31 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-31 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-30 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-30 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-30 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-30 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-29 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-29 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-29 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-29 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-28 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-28 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-27 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-27 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-27 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-27 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-26 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 1969-12-26 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 1969-12-26 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 1970-01-01 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1970-01-01 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1970-01-01 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-31 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-31 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-31 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-30 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-30 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-30 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-30 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-29 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-29 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-29 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-29 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-28 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-28 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-28 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-28 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-27 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-27 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-27 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-26 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 1969-12-26 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-26 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 1969-12-26 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 2025-02-11 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-11 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-11 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-10 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-10 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-10 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-10 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-09 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-09 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-09 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-08 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-08 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-07 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-07 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-07 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-07 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-06 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-06 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-06 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-06 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-05 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 2025-02-05 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 2025-02-05 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-05 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 2025-02-11 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-11","harga":12600}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-11 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-11","harga":11500}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-11 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-11","harga":12000}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-10 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-10","harga":12600}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-10 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-10","harga":12650}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-10 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-10","harga":11000}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-10 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-10","harga":12000}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-09 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-09 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-09 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-09 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-08 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-08 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-08 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-08 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 2025-02-07 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-07","harga":12000}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-07 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-07","harga":12600}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-07 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-07","harga":11000}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-06 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-06","harga":12000}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-06 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-06","harga":12600}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-06 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-06","harga":12700}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-06 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-06","harga":11000}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Tanggal: 2025-02-05 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-05","harga":11000}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Hasil Akhir: Array
+(
+    [0] => Array
+        (
+            [date] => 2025-02-11
+            [harga] => 12000
+        )
+
+    [1] => Array
+        (
+            [date] => 2025-02-10
+            [harga] => 12000
+        )
+
+    [2] => Array
+        (
+            [date] => 2025-02-07
+            [harga] => 12000
+        )
+
+    [3] => Array
+        (
+            [date] => 2025-02-06
+            [harga] => 12000
+        )
+
+    [4] => Array
+        (
+            [date] => 2025-02-05
+            [harga] => 11000
+        )
+
+)
+
+
+🔍 Tanggal: 2025-02-05 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-05","harga":12600}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Hasil Akhir: Array
+(
+    [0] => Array
+        (
+            [date] => 2025-02-11
+            [harga] => 12600
+        )
+
+    [1] => Array
+        (
+            [date] => 2025-02-10
+            [harga] => 12600
+        )
+
+    [2] => Array
+        (
+            [date] => 2025-02-07
+            [harga] => 12600
+        )
+
+    [3] => Array
+        (
+            [date] => 2025-02-06
+            [harga] => 12600
+        )
+
+    [4] => Array
+        (
+            [date] => 2025-02-05
+            [harga] => 12600
+        )
+
+)
+
+
+🔍 Tanggal: 2025-02-05 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2025-02-05","harga":12700}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+🔍 Hasil Akhir: Array
+(
+    [0] => Array
+        (
+            [date] => 2025-02-11
+            [harga] => 11500
+        )
+
+    [1] => Array
+        (
+            [date] => 2025-02-10
+            [harga] => 11000
+        )
+
+    [2] => Array
+        (
+            [date] => 2025-02-07
+            [harga] => 11000
+        )
+
+    [3] => Array
+        (
+            [date] => 2025-02-06
+            [harga] => 11000
+        )
+
+    [4] => Array
+        (
+            [date] => 2025-02-05
+            [harga] => 11000
+        )
+
+)
+
+
+🔍 Hasil Akhir: Array
+(
+    [0] => Array
+        (
+            [date] => 2025-02-11
+            [harga] => 12650
+        )
+
+    [1] => Array
+        (
+            [date] => 2025-02-10
+            [harga] => 12650
+        )
+
+    [2] => Array
+        (
+            [date] => 2025-02-07
+            [harga] => 12650
+        )
+
+    [3] => Array
+        (
+            [date] => 2025-02-06
+            [harga] => 12700
+        )
+
+    [4] => Array
+        (
+            [date] => 2025-02-05
+            [harga] => 12700
+        )
+
+)
+
+
+🔍 Tanggal: 1970-01-01 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1970-01-01 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-31 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-31 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-31 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-31 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-30 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-30 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-30 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-29 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-29 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-29 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-29 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-28 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-28 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-28 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-28 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-27 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-27 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-27 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-27 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-26 - Kota: 3528
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 1969-12-26 - Kota: 3529
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Tanggal: 1969-12-26 - Kota: 3526
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+🔍 Tanggal: 1969-12-26 - Kota: 3527
+{"status":"success","message":"Success retrieving record","data":null}
+
+🔍 Hasil Akhir: Array
+(
+)
+
+
+Response for 2024-02:
+{"error":"invalid start date format"}
+
+Response for 2024-01:
+{"error":"invalid start date format"}
+
+Response for 2023-12:
+{"error":"invalid start date format"}
+
+Response for 2023-11:
+{"error":"invalid start date format"}
+
+Response for 2023-10:
+{"error":"invalid start date format"}
+
+Response for 2023-09:
+{"error":"invalid start date format"}
+
+Response for 2023-08:
+{"error":"invalid start date format"}
+
+Response for 2023-07:
+{"error":"invalid start date format"}
+
+Response for 2023-06:
+{"error":"invalid start date format"}
+
+Response for 2023-05:
+{"error":"invalid start date format"}
+
+Response for 2023-04:
+{"error":"invalid start date format"}
+
+Response for 2023-03:
+{"error":"invalid start date format"}
+
+Final Data:
+Array
+(
+)
+
+
+Response for 2024-02-01:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-02","harga":16500}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Response for 2024-01-01:
+{"status":"success","message":"Success retrieving record","data":null}
+
+Response for 2023-12-01:
+{"status":"success","message":"Success retrieving record","data":null}
+
+Response for 2023-11-01:
+{"status":"success","message":"Success retrieving record","data":null}
+
+Response for 2023-10-01:
+{"status":"success","message":"Success retrieving record","data":null}
+
+Response for 2023-09-01:
+{"status":"success","message":"Success retrieving record","data":null}
+
+Response for 2023-08-01:
+{"status":"success","message":"Success retrieving record","data":null}
+
+Response for 2023-07-01:
+{"status":"success","message":"Success retrieving record","data":null}
+
+Response for 2023-06-01:
+{"status":"success","message":"Success retrieving record","data":null}
+
+Response for 2023-05-01:
+{"status":"success","message":"Success retrieving record","data":null}
+
+Response for 2023-04-01:
+{"status":"success","message":"Success retrieving record","data":null}
+
+Response for 2023-03-01:
+{"status":"success","message":"Success retrieving record","data":null}
+
+Final Data:
+Array
+(
+    [0] => Array
+        (
+            [date] => 2024-02
+            [harga] => 16500
+        )
+
+)
+
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Final Data:
+Array
+(
+    [0] => Array
+        (
+            [date] => 2024-02
+            [harga] => 16500
+        )
+
+    [1] => Array
+        (
+            [date] => 2024-03
+            [harga] => 16900
+        )
+
+    [2] => Array
+        (
+            [date] => 2024-04
+            [harga] => 16600
+        )
+
+    [3] => Array
+        (
+            [date] => 2024-05
+            [harga] => 16400
+        )
+
+    [4] => Array
+        (
+            [date] => 2024-06
+            [harga] => 16300
+        )
+
+    [5] => Array
+        (
+            [date] => 2024-07
+            [harga] => 16300
+        )
+
+    [6] => Array
+        (
+            [date] => 2024-08
+            [harga] => 16300
+        )
+
+    [7] => Array
+        (
+            [date] => 2024-09
+            [harga] => 16300
+        )
+
+    [8] => Array
+        (
+            [date] => 2024-10
+            [harga] => 16300
+        )
+
+    [9] => Array
+        (
+            [date] => 2024-11
+            [harga] => 16300
+        )
+
+    [10] => Array
+        (
+            [date] => 2024-12
+            [harga] => 16300
+        )
+
+    [11] => Array
+        (
+            [date] => 2025-01
+            [harga] => 16300
+        )
+
+    [12] => Array
+        (
+            [date] => 2025-02
+            [harga] => 16300
+        )
+
+)
+
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Final Data:
+Array
+(
+    [0] => Array
+        (
+            [date] => 2024-02
+            [harga] => 16500
+        )
+
+    [1] => Array
+        (
+            [date] => 2024-03
+            [harga] => 16900
+        )
+
+    [2] => Array
+        (
+            [date] => 2024-04
+            [harga] => 16600
+        )
+
+    [3] => Array
+        (
+            [date] => 2024-05
+            [harga] => 16400
+        )
+
+    [4] => Array
+        (
+            [date] => 2024-06
+            [harga] => 16300
+        )
+
+    [5] => Array
+        (
+            [date] => 2024-07
+            [harga] => 16300
+        )
+
+    [6] => Array
+        (
+            [date] => 2024-08
+            [harga] => 16300
+        )
+
+    [7] => Array
+        (
+            [date] => 2024-09
+            [harga] => 16300
+        )
+
+    [8] => Array
+        (
+            [date] => 2024-10
+            [harga] => 16300
+        )
+
+    [9] => Array
+        (
+            [date] => 2024-11
+            [harga] => 16300
+        )
+
+    [10] => Array
+        (
+            [date] => 2024-12
+            [harga] => 16300
+        )
+
+    [11] => Array
+        (
+            [date] => 2025-01
+            [harga] => 16300
+        )
+
+    [12] => Array
+        (
+            [date] => 2025-02
+            [harga] => 16300
+        )
+
+)
+
+
+Response:
+{"status":"success","message":"Success retrieving record","data":null}
+
+Final Data:
+Array
+(
+)
+
+
+Response:
+{"status":"success","message":"Success retrieving record","data":null}
+
+Final Data:
+Array
+(
+)
+
+
+Response:
+{"status":"success","message":"Success retrieving record","data":null}
+
+Final Data:
+Array
+(
+)
+
+
+Response:
+{"status":"success","message":"Success retrieving record","data":null}
+
+Final Data:
+Array
+(
+)
+
+
+Response:
+{"status":"success","message":"Success retrieving record","data":null}
+
+Final Data:
+Array
+(
+)
+
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Final Data:
+Array
+(
+    [0] => Array
+        (
+            [date] => 2024-02
+            [harga] => 16500
+        )
+
+    [1] => Array
+        (
+            [date] => 2024-03
+            [harga] => 16900
+        )
+
+    [2] => Array
+        (
+            [date] => 2024-04
+            [harga] => 16600
+        )
+
+    [3] => Array
+        (
+            [date] => 2024-05
+            [harga] => 16400
+        )
+
+    [4] => Array
+        (
+            [date] => 2024-06
+            [harga] => 16300
+        )
+
+    [5] => Array
+        (
+            [date] => 2024-07
+            [harga] => 16300
+        )
+
+    [6] => Array
+        (
+            [date] => 2024-08
+            [harga] => 16300
+        )
+
+    [7] => Array
+        (
+            [date] => 2024-09
+            [harga] => 16300
+        )
+
+    [8] => Array
+        (
+            [date] => 2024-10
+            [harga] => 16300
+        )
+
+    [9] => Array
+        (
+            [date] => 2024-11
+            [harga] => 16300
+        )
+
+    [10] => Array
+        (
+            [date] => 2024-12
+            [harga] => 16300
+        )
+
+    [11] => Array
+        (
+            [date] => 2025-01
+            [harga] => 16300
+        )
+
+    [12] => Array
+        (
+            [date] => 2025-02
+            [harga] => 16300
+        )
+
+)
+
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Final Data:
+Array
+(
+    [0] => Array
+        (
+            [date] => 2024-02
+            [harga] => 16500
+        )
+
+    [1] => Array
+        (
+            [date] => 2024-03
+            [harga] => 16900
+        )
+
+    [2] => Array
+        (
+            [date] => 2024-04
+            [harga] => 16600
+        )
+
+    [3] => Array
+        (
+            [date] => 2024-05
+            [harga] => 16400
+        )
+
+    [4] => Array
+        (
+            [date] => 2024-06
+            [harga] => 16300
+        )
+
+    [5] => Array
+        (
+            [date] => 2024-07
+            [harga] => 16300
+        )
+
+    [6] => Array
+        (
+            [date] => 2024-08
+            [harga] => 16300
+        )
+
+    [7] => Array
+        (
+            [date] => 2024-09
+            [harga] => 16300
+        )
+
+    [8] => Array
+        (
+            [date] => 2024-10
+            [harga] => 16300
+        )
+
+    [9] => Array
+        (
+            [date] => 2024-11
+            [harga] => 16300
+        )
+
+    [10] => Array
+        (
+            [date] => 2024-12
+            [harga] => 16300
+        )
+
+    [11] => Array
+        (
+            [date] => 2025-01
+            [harga] => 16300
+        )
+
+    [12] => Array
+        (
+            [date] => 2025-02
+            [harga] => 16300
+        )
+
+)
+
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Final Data:
+Array
+(
+    [0] => Array
+        (
+            [date] => 2024-02
+            [harga] => 16500
+        )
+
+    [1] => Array
+        (
+            [date] => 2024-03
+            [harga] => 16900
+        )
+
+    [2] => Array
+        (
+            [date] => 2024-04
+            [harga] => 16600
+        )
+
+    [3] => Array
+        (
+            [date] => 2024-05
+            [harga] => 16400
+        )
+
+    [4] => Array
+        (
+            [date] => 2024-06
+            [harga] => 16300
+        )
+
+    [5] => Array
+        (
+            [date] => 2024-07
+            [harga] => 16300
+        )
+
+    [6] => Array
+        (
+            [date] => 2024-08
+            [harga] => 16300
+        )
+
+    [7] => Array
+        (
+            [date] => 2024-09
+            [harga] => 16300
+        )
+
+    [8] => Array
+        (
+            [date] => 2024-10
+            [harga] => 16300
+        )
+
+    [9] => Array
+        (
+            [date] => 2024-11
+            [harga] => 16300
+        )
+
+    [10] => Array
+        (
+            [date] => 2024-12
+            [harga] => 16300
+        )
+
+    [11] => Array
+        (
+            [date] => 2025-01
+            [harga] => 16300
+        )
+
+    [12] => Array
+        (
+            [date] => 2025-02
+            [harga] => 16300
+        )
+
+)
+
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Final Data:
+Array
+(
+    [0] => Array
+        (
+            [date] => 2024-02
+            [harga] => 16500
+        )
+
+    [1] => Array
+        (
+            [date] => 2024-03
+            [harga] => 16900
+        )
+
+    [2] => Array
+        (
+            [date] => 2024-04
+            [harga] => 16600
+        )
+
+    [3] => Array
+        (
+            [date] => 2024-05
+            [harga] => 16400
+        )
+
+    [4] => Array
+        (
+            [date] => 2024-06
+            [harga] => 16300
+        )
+
+    [5] => Array
+        (
+            [date] => 2024-07
+            [harga] => 16300
+        )
+
+    [6] => Array
+        (
+            [date] => 2024-08
+            [harga] => 16300
+        )
+
+    [7] => Array
+        (
+            [date] => 2024-09
+            [harga] => 16300
+        )
+
+    [8] => Array
+        (
+            [date] => 2024-10
+            [harga] => 16300
+        )
+
+    [9] => Array
+        (
+            [date] => 2024-11
+            [harga] => 16300
+        )
+
+    [10] => Array
+        (
+            [date] => 2024-12
+            [harga] => 16300
+        )
+
+    [11] => Array
+        (
+            [date] => 2025-01
+            [harga] => 16300
+        )
+
+    [12] => Array
+        (
+            [date] => 2025-02
+            [harga] => 16300
+        )
+
+)
+
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Final Data:
+Array
+(
+    [0] => Array
+        (
+            [date] => 2024-02
+            [harga] => 16500
+        )
+
+    [1] => Array
+        (
+            [date] => 2024-03
+            [harga] => 16900
+        )
+
+    [2] => Array
+        (
+            [date] => 2024-04
+            [harga] => 16600
+        )
+
+    [3] => Array
+        (
+            [date] => 2024-05
+            [harga] => 16400
+        )
+
+    [4] => Array
+        (
+            [date] => 2024-06
+            [harga] => 16300
+        )
+
+    [5] => Array
+        (
+            [date] => 2024-07
+            [harga] => 16300
+        )
+
+    [6] => Array
+        (
+            [date] => 2024-08
+            [harga] => 16300
+        )
+
+    [7] => Array
+        (
+            [date] => 2024-09
+            [harga] => 16300
+        )
+
+    [8] => Array
+        (
+            [date] => 2024-10
+            [harga] => 16300
+        )
+
+    [9] => Array
+        (
+            [date] => 2024-11
+            [harga] => 16300
+        )
+
+    [10] => Array
+        (
+            [date] => 2024-12
+            [harga] => 16300
+        )
+
+    [11] => Array
+        (
+            [date] => 2025-01
+            [harga] => 16300
+        )
+
+    [12] => Array
+        (
+            [date] => 2025-02
+            [harga] => 16300
+        )
+
+)
+
+
+Response:
+{"status":"success","message":"Success retrieving record","data":null}
+
+Final Data:
+Array
+(
+)
+
+
+Response:
+{"status":"success","message":"Success retrieving record","data":null}
+
+Final Data:
+Array
+(
+)
+
+
+Response:
+{"status":"success","message":"Success retrieving record","data":null}
+
+Final Data:
+Array
+(
+)
+
+
+Response:
+{"status":"success","message":"Success retrieving record","data":null}
+
+Final Data:
+Array
+(
+)
+
+
+Response:
+{"status":"success","message":"Success retrieving record","data":null}
+
+Final Data:
+Array
+(
+)
+
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-02","harga":15100},{"date":"2024-03","harga":15500},{"date":"2024-04","harga":14900},{"date":"2024-05","harga":14600},{"date":"2024-06","harga":14600},{"date":"2024-07","harga":14500},{"date":"2024-08","harga":14600},{"date":"2024-09","harga":14500},{"date":"2024-10","harga":14500},{"date":"2024-11","harga":14500},{"date":"2024-12","harga":14500},{"date":"2025-01","harga":14600},{"date":"2025-02","harga":14600}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+Final Data:
+Array
+(
+    [0] => Array
+        (
+            [date] => 2024-02
+            [harga] => 15100
+        )
+
+    [1] => Array
+        (
+            [date] => 2024-03
+            [harga] => 15500
+        )
+
+    [2] => Array
+        (
+            [date] => 2024-04
+            [harga] => 14900
+        )
+
+    [3] => Array
+        (
+            [date] => 2024-05
+            [harga] => 14600
+        )
+
+    [4] => Array
+        (
+            [date] => 2024-06
+            [harga] => 14600
+        )
+
+    [5] => Array
+        (
+            [date] => 2024-07
+            [harga] => 14500
+        )
+
+    [6] => Array
+        (
+            [date] => 2024-08
+            [harga] => 14600
+        )
+
+    [7] => Array
+        (
+            [date] => 2024-09
+            [harga] => 14500
+        )
+
+    [8] => Array
+        (
+            [date] => 2024-10
+            [harga] => 14500
+        )
+
+    [9] => Array
+        (
+            [date] => 2024-11
+            [harga] => 14500
+        )
+
+    [10] => Array
+        (
+            [date] => 2024-12
+            [harga] => 14500
+        )
+
+    [11] => Array
+        (
+            [date] => 2025-01
+            [harga] => 14600
+        )
+
+    [12] => Array
+        (
+            [date] => 2025-02
+            [harga] => 14600
+        )
+
+)
+
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-02","harga":15100},{"date":"2024-03","harga":15500},{"date":"2024-04","harga":14900},{"date":"2024-05","harga":14600},{"date":"2024-06","harga":14600},{"date":"2024-07","harga":14500},{"date":"2024-08","harga":14600},{"date":"2024-09","harga":14500},{"date":"2024-10","harga":14500},{"date":"2024-11","harga":14500},{"date":"2024-12","harga":14500},{"date":"2025-01","harga":14600},{"date":"2025-02","harga":14600}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+Final Data:
+Array
+(
+    [0] => Array
+        (
+            [date] => 2024-02
+            [harga] => 15100
+        )
+
+    [1] => Array
+        (
+            [date] => 2024-03
+            [harga] => 15500
+        )
+
+    [2] => Array
+        (
+            [date] => 2024-04
+            [harga] => 14900
+        )
+
+    [3] => Array
+        (
+            [date] => 2024-05
+            [harga] => 14600
+        )
+
+    [4] => Array
+        (
+            [date] => 2024-06
+            [harga] => 14600
+        )
+
+    [5] => Array
+        (
+            [date] => 2024-07
+            [harga] => 14500
+        )
+
+    [6] => Array
+        (
+            [date] => 2024-08
+            [harga] => 14600
+        )
+
+    [7] => Array
+        (
+            [date] => 2024-09
+            [harga] => 14500
+        )
+
+    [8] => Array
+        (
+            [date] => 2024-10
+            [harga] => 14500
+        )
+
+    [9] => Array
+        (
+            [date] => 2024-11
+            [harga] => 14500
+        )
+
+    [10] => Array
+        (
+            [date] => 2024-12
+            [harga] => 14500
+        )
+
+    [11] => Array
+        (
+            [date] => 2025-01
+            [harga] => 14600
+        )
+
+    [12] => Array
+        (
+            [date] => 2025-02
+            [harga] => 14600
+        )
+
+)
+
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-02","harga":15100},{"date":"2024-03","harga":15500},{"date":"2024-04","harga":14900},{"date":"2024-05","harga":14600},{"date":"2024-06","harga":14600},{"date":"2024-07","harga":14500},{"date":"2024-08","harga":14600},{"date":"2024-09","harga":14500},{"date":"2024-10","harga":14500},{"date":"2024-11","harga":14500},{"date":"2024-12","harga":14500},{"date":"2025-01","harga":14600},{"date":"2025-02","harga":14600}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+Final Data:
+Array
+(
+    [0] => Array
+        (
+            [date] => 2024-02
+            [harga] => 15100
+        )
+
+    [1] => Array
+        (
+            [date] => 2024-03
+            [harga] => 15500
+        )
+
+    [2] => Array
+        (
+            [date] => 2024-04
+            [harga] => 14900
+        )
+
+    [3] => Array
+        (
+            [date] => 2024-05
+            [harga] => 14600
+        )
+
+    [4] => Array
+        (
+            [date] => 2024-06
+            [harga] => 14600
+        )
+
+    [5] => Array
+        (
+            [date] => 2024-07
+            [harga] => 14500
+        )
+
+    [6] => Array
+        (
+            [date] => 2024-08
+            [harga] => 14600
+        )
+
+    [7] => Array
+        (
+            [date] => 2024-09
+            [harga] => 14500
+        )
+
+    [8] => Array
+        (
+            [date] => 2024-10
+            [harga] => 14500
+        )
+
+    [9] => Array
+        (
+            [date] => 2024-11
+            [harga] => 14500
+        )
+
+    [10] => Array
+        (
+            [date] => 2024-12
+            [harga] => 14500
+        )
+
+    [11] => Array
+        (
+            [date] => 2025-01
+            [harga] => 14600
+        )
+
+    [12] => Array
+        (
+            [date] => 2025-02
+            [harga] => 14600
+        )
+
+)
+
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-02","harga":15100},{"date":"2024-03","harga":15500},{"date":"2024-04","harga":14900},{"date":"2024-05","harga":14600},{"date":"2024-06","harga":14600},{"date":"2024-07","harga":14500},{"date":"2024-08","harga":14600},{"date":"2024-09","harga":14500},{"date":"2024-10","harga":14500},{"date":"2024-11","harga":14500},{"date":"2024-12","harga":14500},{"date":"2025-01","harga":14600},{"date":"2025-02","harga":14600}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+Final Data:
+Array
+(
+    [0] => Array
+        (
+            [date] => 2024-02
+            [harga] => 15100
+        )
+
+    [1] => Array
+        (
+            [date] => 2024-03
+            [harga] => 15500
+        )
+
+    [2] => Array
+        (
+            [date] => 2024-04
+            [harga] => 14900
+        )
+
+    [3] => Array
+        (
+            [date] => 2024-05
+            [harga] => 14600
+        )
+
+    [4] => Array
+        (
+            [date] => 2024-06
+            [harga] => 14600
+        )
+
+    [5] => Array
+        (
+            [date] => 2024-07
+            [harga] => 14500
+        )
+
+    [6] => Array
+        (
+            [date] => 2024-08
+            [harga] => 14600
+        )
+
+    [7] => Array
+        (
+            [date] => 2024-09
+            [harga] => 14500
+        )
+
+    [8] => Array
+        (
+            [date] => 2024-10
+            [harga] => 14500
+        )
+
+    [9] => Array
+        (
+            [date] => 2024-11
+            [harga] => 14500
+        )
+
+    [10] => Array
+        (
+            [date] => 2024-12
+            [harga] => 14500
+        )
+
+    [11] => Array
+        (
+            [date] => 2025-01
+            [harga] => 14600
+        )
+
+    [12] => Array
+        (
+            [date] => 2025-02
+            [harga] => 14600
+        )
+
+)
+
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-02","harga":15100},{"date":"2024-03","harga":15500},{"date":"2024-04","harga":14900},{"date":"2024-05","harga":14600},{"date":"2024-06","harga":14600},{"date":"2024-07","harga":14500},{"date":"2024-08","harga":14600},{"date":"2024-09","harga":14500},{"date":"2024-10","harga":14500},{"date":"2024-11","harga":14500},{"date":"2024-12","harga":14500},{"date":"2025-01","harga":14600},{"date":"2025-02","harga":14600}],"kuantitas":1,"order":101,"satuan":"","variant":"Beras Medium","variant_id":52}]}
+
+Final Data:
+Array
+(
+    [0] => Array
+        (
+            [date] => 2024-02
+            [harga] => 15100
+        )
+
+    [1] => Array
+        (
+            [date] => 2024-03
+            [harga] => 15500
+        )
+
+    [2] => Array
+        (
+            [date] => 2024-04
+            [harga] => 14900
+        )
+
+    [3] => Array
+        (
+            [date] => 2024-05
+            [harga] => 14600
+        )
+
+    [4] => Array
+        (
+            [date] => 2024-06
+            [harga] => 14600
+        )
+
+    [5] => Array
+        (
+            [date] => 2024-07
+            [harga] => 14500
+        )
+
+    [6] => Array
+        (
+            [date] => 2024-08
+            [harga] => 14600
+        )
+
+    [7] => Array
+        (
+            [date] => 2024-09
+            [harga] => 14500
+        )
+
+    [8] => Array
+        (
+            [date] => 2024-10
+            [harga] => 14500
+        )
+
+    [9] => Array
+        (
+            [date] => 2024-11
+            [harga] => 14500
+        )
+
+    [10] => Array
+        (
+            [date] => 2024-12
+            [harga] => 14500
+        )
+
+    [11] => Array
+        (
+            [date] => 2025-01
+            [harga] => 14600
+        )
+
+    [12] => Array
+        (
+            [date] => 2025-02
+            [harga] => 14600
+        )
+
+)
+
+
+Response:
+{"status":"success","message":"Success retrieving record","data":null}
+
+Final Data:
+Array
+(
+)
+
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-02","harga":64800},{"date":"2024-03","harga":64900},{"date":"2024-04","harga":57200},{"date":"2024-05","harga":57000},{"date":"2024-06","harga":61200},{"date":"2024-07","harga":52800},{"date":"2024-08","harga":50800},{"date":"2024-09","harga":41800},{"date":"2024-10","harga":36600},{"date":"2024-11","harga":35500},{"date":"2024-12","harga":40700},{"date":"2025-01","harga":55900},{"date":"2025-02","harga":59000}],"kuantitas":1,"order":302,"satuan":"","variant":"Cabai Merah Besar","variant_id":9}]}
+
+Final Data:
+Array
+(
+    [0] => Array
+        (
+            [date] => 2024-02
+            [harga] => 64800
+        )
+
+    [1] => Array
+        (
+            [date] => 2024-03
+            [harga] => 64900
+        )
+
+    [2] => Array
+        (
+            [date] => 2024-04
+            [harga] => 57200
+        )
+
+    [3] => Array
+        (
+            [date] => 2024-05
+            [harga] => 57000
+        )
+
+    [4] => Array
+        (
+            [date] => 2024-06
+            [harga] => 61200
+        )
+
+    [5] => Array
+        (
+            [date] => 2024-07
+            [harga] => 52800
+        )
+
+    [6] => Array
+        (
+            [date] => 2024-08
+            [harga] => 50800
+        )
+
+    [7] => Array
+        (
+            [date] => 2024-09
+            [harga] => 41800
+        )
+
+    [8] => Array
+        (
+            [date] => 2024-10
+            [harga] => 36600
+        )
+
+    [9] => Array
+        (
+            [date] => 2024-11
+            [harga] => 35500
+        )
+
+    [10] => Array
+        (
+            [date] => 2024-12
+            [harga] => 40700
+        )
+
+    [11] => Array
+        (
+            [date] => 2025-01
+            [harga] => 55900
+        )
+
+    [12] => Array
+        (
+            [date] => 2025-02
+            [harga] => 59000
+        )
+
+)
+
+
+Response:
+{"status":"success","message":"Success retrieving record","data":null}
+
+Final Data:
+Array
+(
+)
+
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Final Data:
+Array
+(
+    [0] => Array
+        (
+            [date] => 2024-02
+            [harga] => 16500
+        )
+
+    [1] => Array
+        (
+            [date] => 2024-03
+            [harga] => 16900
+        )
+
+    [2] => Array
+        (
+            [date] => 2024-04
+            [harga] => 16600
+        )
+
+    [3] => Array
+        (
+            [date] => 2024-05
+            [harga] => 16400
+        )
+
+    [4] => Array
+        (
+            [date] => 2024-06
+            [harga] => 16300
+        )
+
+    [5] => Array
+        (
+            [date] => 2024-07
+            [harga] => 16300
+        )
+
+    [6] => Array
+        (
+            [date] => 2024-08
+            [harga] => 16300
+        )
+
+    [7] => Array
+        (
+            [date] => 2024-09
+            [harga] => 16300
+        )
+
+    [8] => Array
+        (
+            [date] => 2024-10
+            [harga] => 16300
+        )
+
+    [9] => Array
+        (
+            [date] => 2024-11
+            [harga] => 16300
+        )
+
+    [10] => Array
+        (
+            [date] => 2024-12
+            [harga] => 16300
+        )
+
+    [11] => Array
+        (
+            [date] => 2025-01
+            [harga] => 16300
+        )
+
+    [12] => Array
+        (
+            [date] => 2025-02
+            [harga] => 16300
+        )
+
+)
+
+
+Response:
+{"status":"success","message":"Success retrieving record","data":null}
+
+Final Data:
+Array
+(
+)
+
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Final Data:
+Array
+(
+    [0] => Array
+        (
+            [date] => 2024-02
+            [harga] => 16500
+        )
+
+    [1] => Array
+        (
+            [date] => 2024-03
+            [harga] => 16900
+        )
+
+    [2] => Array
+        (
+            [date] => 2024-04
+            [harga] => 16600
+        )
+
+    [3] => Array
+        (
+            [date] => 2024-05
+            [harga] => 16400
+        )
+
+    [4] => Array
+        (
+            [date] => 2024-06
+            [harga] => 16300
+        )
+
+    [5] => Array
+        (
+            [date] => 2024-07
+            [harga] => 16300
+        )
+
+    [6] => Array
+        (
+            [date] => 2024-08
+            [harga] => 16300
+        )
+
+    [7] => Array
+        (
+            [date] => 2024-09
+            [harga] => 16300
+        )
+
+    [8] => Array
+        (
+            [date] => 2024-10
+            [harga] => 16300
+        )
+
+    [9] => Array
+        (
+            [date] => 2024-11
+            [harga] => 16300
+        )
+
+    [10] => Array
+        (
+            [date] => 2024-12
+            [harga] => 16300
+        )
+
+    [11] => Array
+        (
+            [date] => 2025-01
+            [harga] => 16300
+        )
+
+    [12] => Array
+        (
+            [date] => 2025-02
+            [harga] => 16300
+        )
+
+)
+
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Final Data:
+Array
+(
+    [0] => Array
+        (
+            [date] => 2024-02
+            [harga] => 16500
+        )
+
+    [1] => Array
+        (
+            [date] => 2024-03
+            [harga] => 16900
+        )
+
+    [2] => Array
+        (
+            [date] => 2024-04
+            [harga] => 16600
+        )
+
+    [3] => Array
+        (
+            [date] => 2024-05
+            [harga] => 16400
+        )
+
+    [4] => Array
+        (
+            [date] => 2024-06
+            [harga] => 16300
+        )
+
+    [5] => Array
+        (
+            [date] => 2024-07
+            [harga] => 16300
+        )
+
+    [6] => Array
+        (
+            [date] => 2024-08
+            [harga] => 16300
+        )
+
+    [7] => Array
+        (
+            [date] => 2024-09
+            [harga] => 16300
+        )
+
+    [8] => Array
+        (
+            [date] => 2024-10
+            [harga] => 16300
+        )
+
+    [9] => Array
+        (
+            [date] => 2024-11
+            [harga] => 16300
+        )
+
+    [10] => Array
+        (
+            [date] => 2024-12
+            [harga] => 16300
+        )
+
+    [11] => Array
+        (
+            [date] => 2025-01
+            [harga] => 16300
+        )
+
+    [12] => Array
+        (
+            [date] => 2025-02
+            [harga] => 16300
+        )
+
+)
+
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Final Data:
+Array
+(
+    [0] => Array
+        (
+            [date] => 2024-02
+            [harga] => 16500
+        )
+
+    [1] => Array
+        (
+            [date] => 2024-03
+            [harga] => 16900
+        )
+
+    [2] => Array
+        (
+            [date] => 2024-04
+            [harga] => 16600
+        )
+
+    [3] => Array
+        (
+            [date] => 2024-05
+            [harga] => 16400
+        )
+
+    [4] => Array
+        (
+            [date] => 2024-06
+            [harga] => 16300
+        )
+
+    [5] => Array
+        (
+            [date] => 2024-07
+            [harga] => 16300
+        )
+
+    [6] => Array
+        (
+            [date] => 2024-08
+            [harga] => 16300
+        )
+
+    [7] => Array
+        (
+            [date] => 2024-09
+            [harga] => 16300
+        )
+
+    [8] => Array
+        (
+            [date] => 2024-10
+            [harga] => 16300
+        )
+
+    [9] => Array
+        (
+            [date] => 2024-11
+            [harga] => 16300
+        )
+
+    [10] => Array
+        (
+            [date] => 2024-12
+            [harga] => 16300
+        )
+
+    [11] => Array
+        (
+            [date] => 2025-01
+            [harga] => 16300
+        )
+
+    [12] => Array
+        (
+            [date] => 2025-02
+            [harga] => 16300
+        )
+
+)
+
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-01","harga":0},{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-01","harga":0},{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-01","harga":0},{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-01","harga":0},{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-01","harga":0},{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-01","harga":0},{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-01","harga":0},{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-01","harga":0},{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-01","harga":0},{"date":"2024-02","harga":56600},{"date":"2024-03","harga":59100},{"date":"2024-04","harga":57600},{"date":"2024-05","harga":53700},{"date":"2024-06","harga":57400},{"date":"2024-07","harga":62500},{"date":"2024-08","harga":69500},{"date":"2024-09","harga":53200},{"date":"2024-10","harga":49200},{"date":"2024-11","harga":44500},{"date":"2024-12","harga":46800},{"date":"2025-01","harga":72400},{"date":"2025-02","harga":65500}],"kuantitas":1,"order":303,"satuan":"","variant":"Cabai Rawit Merah","variant_id":10}]}
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-01","harga":0},{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-01","harga":0},{"date":"2024-02","harga":20900},{"date":"2024-03","harga":21000},{"date":"2024-04","harga":21000},{"date":"2024-05","harga":21000},{"date":"2024-06","harga":21100},{"date":"2024-07","harga":21100},{"date":"2024-08","harga":21100},{"date":"2024-09","harga":21100},{"date":"2024-10","harga":21200},{"date":"2024-11","harga":21400},{"date":"2024-12","harga":21700},{"date":"2025-01","harga":22000},{"date":"2025-02","harga":22200}],"kuantitas":1,"order":602,"satuan":"","variant":"Minyak Goreng Sawit Kemasan Premium","variant_id":17}]}
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-01","harga":0},{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-01","harga":0},{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-01","harga":0},{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-01","harga":0},{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-01","harga":0},{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-01","harga":0},{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-01","harga":0},{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-01","harga":0},{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-01","harga":0},{"date":"2024-02","harga":56600},{"date":"2024-03","harga":59100},{"date":"2024-04","harga":57600},{"date":"2024-05","harga":53700},{"date":"2024-06","harga":57400},{"date":"2024-07","harga":62500},{"date":"2024-08","harga":69500},{"date":"2024-09","harga":53200},{"date":"2024-10","harga":49200},{"date":"2024-11","harga":44500},{"date":"2024-12","harga":46800},{"date":"2025-01","harga":72400},{"date":"2025-02","harga":65500}],"kuantitas":1,"order":303,"satuan":"","variant":"Cabai Rawit Merah","variant_id":10}]}
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-01","harga":0},{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-01","harga":0},{"date":"2024-02","harga":13400},{"date":"2024-03","harga":13400},{"date":"2024-04","harga":13300},{"date":"2024-05","harga":13400},{"date":"2024-06","harga":13300},{"date":"2024-07","harga":13300},{"date":"2024-08","harga":13300},{"date":"2024-09","harga":13200},{"date":"2024-10","harga":13200},{"date":"2024-11","harga":13200},{"date":"2024-12","harga":13200},{"date":"2025-01","harga":13100},{"date":"2025-02","harga":13100}],"kuantitas":1,"order":700,"satuan":"","variant":"Tepung Terigu","variant_id":26}]}
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-01","harga":0},{"date":"2024-02","harga":15500},{"date":"2024-03","harga":15700},{"date":"2024-04","harga":15900},{"date":"2024-05","harga":16100},{"date":"2024-06","harga":16200},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16400},{"date":"2024-09","harga":16700},{"date":"2024-10","harga":16900},{"date":"2024-11","harga":17000},{"date":"2024-12","harga":17200},{"date":"2025-01","harga":17400},{"date":"2025-02","harga":17300}],"kuantitas":1,"order":603,"satuan":"","variant":"Minyakita","variant_id":18}]}
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-01","harga":0},{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-01","harga":0},{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-01","harga":0},{"date":"2024-02","harga":15500},{"date":"2024-03","harga":15700},{"date":"2024-04","harga":15900},{"date":"2024-05","harga":16100},{"date":"2024-06","harga":16200},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16400},{"date":"2024-09","harga":16700},{"date":"2024-10","harga":16900},{"date":"2024-11","harga":17000},{"date":"2024-12","harga":17200},{"date":"2025-01","harga":17400},{"date":"2025-02","harga":17300}],"kuantitas":1,"order":603,"satuan":"","variant":"Minyakita","variant_id":18}]}
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-01","harga":0},{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-01","harga":0},{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-01","harga":0},{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-01","harga":0},{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-01","harga":0},{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-01","harga":0},{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-01","harga":0},{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-01","harga":0},{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-01","harga":0},{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-01","harga":0},{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-01","harga":0},{"date":"2024-02","harga":56600},{"date":"2024-03","harga":59100},{"date":"2024-04","harga":57600},{"date":"2024-05","harga":53700},{"date":"2024-06","harga":57400},{"date":"2024-07","harga":62500},{"date":"2024-08","harga":69500},{"date":"2024-09","harga":53200},{"date":"2024-10","harga":49200},{"date":"2024-11","harga":44500},{"date":"2024-12","harga":46800},{"date":"2025-01","harga":72400},{"date":"2025-02","harga":65500}],"kuantitas":1,"order":303,"satuan":"","variant":"Cabai Rawit Merah","variant_id":10}]}
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-01","harga":0},{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-01","harga":0},{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-01","harga":0},{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-01","harga":0},{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-01","harga":0},{"date":"2024-02","harga":16500},{"date":"2024-03","harga":16900},{"date":"2024-04","harga":16600},{"date":"2024-05","harga":16400},{"date":"2024-06","harga":16300},{"date":"2024-07","harga":16300},{"date":"2024-08","harga":16300},{"date":"2024-09","harga":16300},{"date":"2024-10","harga":16300},{"date":"2024-11","harga":16300},{"date":"2024-12","harga":16300},{"date":"2025-01","harga":16300},{"date":"2025-02","harga":16300}],"kuantitas":1,"order":102,"satuan":"","variant":"Beras Premium","variant_id":51}]}
+
+Response:
+{"status":"success","message":"Success retrieving record","data":[{"daftarHarga":[{"date":"2024-01","harga":0},{"date":"2024-02","harga":64800},{"date":"2024-03","harga":64900},{"date":"2024-04","harga":57200},{"date":"2024-05","harga":57000},{"date":"2024-06","harga":61200},{"date":"2024-07","harga":52800},{"date":"2024-08","harga":50800},{"date":"2024-09","harga":41800},{"date":"2024-10","harga":36600},{"date":"2024-11","harga":35500},{"date":"2024-12","harga":40700},{"date":"2025-01","harga":55900},{"date":"2025-02","harga":58600}],"kuantitas":1,"order":302,"satuan":"","variant":"Cabai Merah Besar","variant_id":9}]}
+

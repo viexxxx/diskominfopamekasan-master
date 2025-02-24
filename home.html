@@ -1,0 +1,726 @@
+<!DOCTYPE html>
+<html class="no-js" lang="zxx">
+
+<head>
+    <meta charset="utf-8" />
+    <meta http-equiv="x-ua-compatible" content="ie=edge" />
+    <title>Diskominfo Pamekasan</title>
+    <meta name="description" content="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <link rel="shortcut icon" type="image/x-icon" href="assets/images/favicon.svg" />
+
+    <!-- ========================= CSS here ========================= -->
+    <link rel="stylesheet" href="assets/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="assets/css/animate.css" />
+    <link rel="stylesheet" href="assets/css/tiny-slider.css" />
+    <link rel="stylesheet" href="assets/css/glightbox.min.css" />
+    <link rel="stylesheet" href="assets/css/main.css" />
+
+    <link rel="stylesheet" href="./node_modules/lineicons/assets/icon-fonts/lineicons.css" />
+
+
+</head>
+
+<body>
+    <!--[if lte IE 9]>
+      <p class="browserupgrade">
+        You are using an <strong>outdated</strong> browser. Please
+        <a href="https://browsehappy.com/">upgrade your browser</a> to improve
+        your experience and security.
+      </p>
+    <![endif]-->
+
+    <!-- Preloader -->
+    <div class="preloader">
+        <div class="preloader-inner">
+            <div class="preloader-icon">
+                <span></span>
+                <span></span>
+            </div>
+        </div>
+    </div>
+    <!-- /End Preloader -->
+
+    <!-- Start Header Area -->
+    <header class="header navbar-area">
+        <div class="container">
+            <div class="row align-items-center">
+                <div class="col-lg-12">
+                    <div class="nav-inner">
+                        <!-- Start Navbar -->
+                        <nav class="navbar navbar-expand-lg">
+                            <a class="navbar-brand" href="index.html">
+                                <img src="assets/images/logo/diskominfo.svg" alt="Logo">
+                            </a>
+                            <button class="navbar-toggler mobile-menu-btn" type="button" data-bs-toggle="collapse"
+                                data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent"
+                                aria-expanded="false" aria-label="Toggle navigation">
+                                <span class="toggler-icon"></span>
+                                <span class="toggler-icon"></span>
+                                <span class="toggler-icon"></span>
+                            </button>
+                            <div class="collapse navbar-collapse sub-menu-bar" id="navbarSupportedContent">
+                                <ul id="nav" class="navbar-nav ms-auto">
+                                    <li class="nav-item">
+                                        <div class="nav-link">
+                                          <a href="index.html" class="active" aria-label="Toggle navigation">
+                                            <span class="icon">
+                                                <i class="lni lni-home-2"></i>
+                                            </span>
+                                            Dashboard
+                                          </a>
+                                        </div>
+                                    </li>
+                                      
+                                    <li class="nav-item">
+                                        <div class="nav-link">
+                                          <a href="./profil.html" class="active" aria-label="Toggle navigation">
+                                            <span class="icon">
+                                                <i class="lni lni-double-quotes-end-1"></i>
+                                            </span>
+                                            Profil
+                                          </a>
+                                        </div>
+                                    </li>
+
+                                    <li class="nav-item">
+                                        <div class="nav-link">
+                                          <a href="./login.html" class="active" aria-label="Toggle navigation">
+                                            <span class="icon">
+                                              <i class="lni lni-exit"></i>
+                                            </span>
+                                            Login
+                                          </a>
+                                        </div>
+                                    </li>
+                                </ul>
+                            </div> <!-- navbar collapse -->
+                            <div class="button home-btn">
+                                <a href="#" class="btn">Contact Us</a>
+                            </div>
+                        </nav>
+                        <!-- End Navbar -->
+                    </div>
+                </div>
+            </div> <!-- row -->
+        </div> <!-- container -->
+    </header>
+    <!-- End Header Area -->
+
+    <!-- Start Hero Area -->
+    <section class="hero-area">
+        <div class="container">
+          <div class="hero-content">
+            <div class="row align-items-center">
+              <div class="col-lg-5 col-md-12 col-12">
+                <h1>
+                  Dashboard <span class="highlight">Pangan</span><br />
+                  Kabupaten Pamekasan
+                </h1>
+              </div>
+            </div>
+            <div class="search-container">
+              <div class="row align-items-center">
+                <div class="col-lg-6 col-md-12 col-12">
+                  <div class="search-box">
+                    <div class="search-input">
+                      <input type="text" placeholder="Cari Komoditas" aria-label="Cari Komoditas" />
+                      <button class="btn search-btn">
+                        <i class="lni lni-search-2"></i>
+                      </button>
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-6 col-md-12 col-12">
+                    <div class="search-box">
+                      <div class="row">
+                        <div class="col-md-3 col-6">
+                          <label for="city">Kota/Kabupaten</label>
+                          <div class="dropdown-wrapper">
+                            <select id="city" class="form-select">
+                              <option selected>Kota/Kabupaten</option>
+                              <option value="1">Kab. Pamekasan</option>
+                              <option value="2">Kab. Sampang</option>
+                            </select>
+                          </div>
+                        </div>
+                        <div class="col-md-3 col-6">
+                          <label for="price-change">Perubahan Harga</label>
+                          <div class="dropdown-wrapper">
+                            <select id="price-change" class="form-select">
+                              <option selected>Perubahan Harga</option>
+                              <option value="1">Harga Naik</option>
+                              <option value="2">Harga Turun</option>
+                            </select>
+                          </div>
+                        </div>
+                      </div>
+                    </div>
+                  </div>                  
+              </div>
+            </div>
+            <!-- Bagian Informasi Harga -->
+            <div class="price-info">
+                <!-- Row Pertama -->
+                <div class="row mb-4">
+                    <div class="col-lg-6 col-md-12">
+                        <h2 class="section-title">Kategori</h2>
+                    </div>
+                    <div class="col-lg-6 col-md-12 text-end">
+                        <div class="filter-buttons">
+                        <button class="btn btn-filter active">Semua</button>
+                        <button class="btn btn-filter">Bawang Merah</button>
+                        <button class="btn btn-filter">Bawang Putih</button>
+                        <button class="btn btn-filter">Cabai Merah</button>
+                        </div>
+                    </div>
+                </div>
+
+                <div class="price-carousel">
+                    <div id="priceCarousel" class="carousel slide" data-bs-ride="carousel">
+                      <div class="carousel-inner">
+                        <!-- Slide 1 -->
+                        <div class="carousel-item active">                
+                        <!-- Row Kedua -->
+                            <div class="row">
+                            <!-- Card Harga -->
+                                <div class="col-lg-4 col-md-6 col-sm-12">
+                                    <div class="price-card">
+                                        <div class="card-left">
+                                            <img src="./assets/images/card/bawangputih.png" alt="Bawang Putih">
+                                            <span class="price-change green"><i class="lni lni-arrow-angular-top-right rotated"></i>+0.52% | Rp70</span>
+                                        </div>
+                                        <div class="card-right">
+                                            <h4>Bawang Putih</h4>
+                                            <p>Rp40.129 / kg</p>
+                                            <img src="./assets/images/card/graphup.svg" alt="Graph">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-6 col-sm-12">
+                                    <div class="price-card">
+                                        <div class="card-left">
+                                            <img src="./assets/images/card/cabai.png" alt="Bawang Putih">
+                                            <span class="price-change red"><i class="lni lni-arrow-angular-top-left"></i>+0.52% | Rp70</span>
+                                        </div>
+                                        <div class="card-right">
+                                            <h4>Cabai Merah Besar</h4>
+                                            <p>Rp81.178 / kg</p>
+                                            <img src="./assets/images/card/graphdown.svg" alt="Graph">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-6 col-sm-12">
+                                    <div class="price-card">
+                                        <div class="card-left">
+                                            <img src="./assets/images/card/ayam.png" alt="Ayam">
+                                            <span class="price-change red"><i class="lni lni-arrow-angular-top-left"></i>+0.52% | Rp70</span>
+                                        </div>
+                                        <div class="card-right">
+                                            <h4>Daging Ayam</h4>
+                                            <p>Rp65.135 / kg</p>
+                                            <img src="./assets/images/card/graphdown.svg" alt="Graph">
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Tambahkan Card Lainnya -->
+                            </div>
+
+                            <div class="row">
+                                <!-- Card Harga -->
+                                <div class="col-lg-4 col-md-6 col-sm-12">
+                                    <div class="price-card">
+                                        <div class="card-left">
+                                            <img src="./assets/images/card/bawangputih.png" alt="Bawang Putih">
+                                            <span class="price-change green"><i class="lni lni-arrow-angular-top-right rotated"></i>+0.52% | Rp70</span>
+                                        </div>
+                                        <div class="card-right">
+                                            <h4>Bawang Putih</h4>
+                                            <p>Rp40.129 / kg</p>
+                                            <img src="./assets/images/card/graphup.svg" alt="Graph">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-6 col-sm-12">
+                                    <div class="price-card">
+                                        <div class="card-left">
+                                            <img src="./assets/images/card/cabai.png" alt="Bawang Putih">
+                                            <span class="price-change red"><i class="lni lni-arrow-angular-top-left"></i>+0.52% | Rp70</span>
+                                        </div>
+                                        <div class="card-right">
+                                            <h4>Cabai Merah Besar</h4>
+                                            <p>Rp81.178 / kg</p>
+                                            <img src="./assets/images/card/graphdown.svg" alt="Graph">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-6 col-sm-12">
+                                    <div class="price-card">
+                                        <div class="card-left">
+                                            <img src="./assets/images/card/ayam.png" alt="Ayam">
+                                            <span class="price-change red"><i class="lni lni-arrow-angular-top-left"></i>+0.52% | Rp70</span>
+                                        </div>
+                                        <div class="card-right">
+                                            <h4>Daging Ayam</h4>
+                                            <p>Rp65.135 / kg</p>
+                                            <img src="./assets/images/card/graphdown.svg" alt="Graph">
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Tambahkan Card Lainnya -->
+                            </div>
+                            <div class="row">
+                                <!-- Card Harga -->
+                                <div class="col-lg-4 col-md-6 col-sm-12">
+                                    <div class="price-card">
+                                        <div class="card-left">
+                                            <img src="./assets/images/card/bawangputih.png" alt="Bawang Putih">
+                                            <span class="price-change green"><i class="lni lni-arrow-angular-top-right rotated"></i>+0.52% | Rp70</span>
+                                        </div>
+                                        <div class="card-right">
+                                            <h4>Bawang Putih</h4>
+                                            <p>Rp40.129 / kg</p>
+                                            <img src="./assets/images/card/graphup.svg" alt="Graph">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-6 col-sm-12">
+                                    <div class="price-card">
+                                        <div class="card-left">
+                                            <img src="./assets/images/card/cabai.png" alt="Bawang Putih">
+                                            <span class="price-change red"><i class="lni lni-arrow-angular-top-left"></i>+0.52% | Rp70</span>
+                                        </div>
+                                        <div class="card-right">
+                                            <h4>Cabai Merah Besar</h4>
+                                            <p>Rp81.178 / kg</p>
+                                            <img src="./assets/images/card/graphdown.svg" alt="Graph">
+                                        </div>
+                                    </div>
+                                </div>
+                                <div class="col-lg-4 col-md-6 col-sm-12">
+                                    <div class="price-card">
+                                        <div class="card-left">
+                                            <img src="./assets/images/card/ayam.png" alt="Ayam">
+                                            <span class="price-change red"><i class="lni lni-arrow-angular-top-left"></i>+0.52% | Rp70</span>
+                                        </div>
+                                        <div class="card-right">
+                                            <h4>Daging Ayam</h4>
+                                            <p>Rp65.135 / kg</p>
+                                            <img src="./assets/images/card/graphdown.svg" alt="Graph">
+                                        </div>
+                                    </div>
+                                </div>
+                                <!-- Tambahkan Card Lainnya -->
+                            </div>
+                        </div>
+
+                        <div class="carousel-item">                
+                            <!-- Row Kedua -->
+                                <div class="row">
+                                <!-- Card Harga -->
+                                    <div class="col-lg-4 col-md-6 col-sm-12">
+                                        <div class="price-card">
+                                            <div class="card-left">
+                                                <img src="./assets/images/card/bawangputih.png" alt="Bawang Putih">
+                                                <span class="price-change green"><i class="lni lni-arrow-angular-top-right rotated"></i>+0.52% | Rp70</span>
+                                            </div>
+                                            <div class="card-right">
+                                                <h4>Bawang Putih</h4>
+                                                <p>Rp40.129 / kg</p>
+                                                <img src="./assets/images/card/graphup.svg" alt="Graph">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4 col-md-6 col-sm-12">
+                                        <div class="price-card">
+                                            <div class="card-left">
+                                                <img src="./assets/images/card/cabai.png" alt="Bawang Putih">
+                                                <span class="price-change red"><i class="lni lni-arrow-angular-top-left"></i>+0.52% | Rp70</span>
+                                            </div>
+                                            <div class="card-right">
+                                                <h4>Cabai Merah Besar</h4>
+                                                <p>Rp81.178 / kg</p>
+                                                <img src="./assets/images/card/graphdown.svg" alt="Graph">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4 col-md-6 col-sm-12">
+                                        <div class="price-card">
+                                            <div class="card-left">
+                                                <img src="./assets/images/card/ayam.png" alt="Ayam">
+                                                <span class="price-change red"><i class="lni lni-arrow-angular-top-left"></i>+0.52% | Rp70</span>
+                                            </div>
+                                            <div class="card-right">
+                                                <h4>Daging Ayam</h4>
+                                                <p>Rp65.135 / kg</p>
+                                                <img src="./assets/images/card/graphdown.svg" alt="Graph">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Tambahkan Card Lainnya -->
+                                </div>
+    
+                                <div class="row">
+                                    <!-- Card Harga -->
+                                    <div class="col-lg-4 col-md-6 col-sm-12">
+                                        <div class="price-card">
+                                            <div class="card-left">
+                                                <img src="./assets/images/card/bawangputih.png" alt="Bawang Putih">
+                                                <span class="price-change green"><i class="lni lni-arrow-angular-top-right rotated"></i>+0.52% | Rp70</span>
+                                            </div>
+                                            <div class="card-right">
+                                                <h4>Bawang Putih</h4>
+                                                <p>Rp40.129 / kg</p>
+                                                <img src="./assets/images/card/graphup.svg" alt="Graph">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4 col-md-6 col-sm-12">
+                                        <div class="price-card">
+                                            <div class="card-left">
+                                                <img src="./assets/images/card/cabai.png" alt="Bawang Putih">
+                                                <span class="price-change red"><i class="lni lni-arrow-angular-top-left"></i>+0.52% | Rp70</span>
+                                            </div>
+                                            <div class="card-right">
+                                                <h4>Cabai Merah Besar</h4>
+                                                <p>Rp81.178 / kg</p>
+                                                <img src="./assets/images/card/graphdown.svg" alt="Graph">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4 col-md-6 col-sm-12">
+                                        <div class="price-card">
+                                            <div class="card-left">
+                                                <img src="./assets/images/card/ayam.png" alt="Ayam">
+                                                <span class="price-change red"><i class="lni lni-arrow-angular-top-left"></i>+0.52% | Rp70</span>
+                                            </div>
+                                            <div class="card-right">
+                                                <h4>Daging Ayam</h4>
+                                                <p>Rp65.135 / kg</p>
+                                                <img src="./assets/images/card/graphdown.svg" alt="Graph">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Tambahkan Card Lainnya -->
+                                </div>
+                                <div class="row">
+                                    <!-- Card Harga -->
+                                    <div class="col-lg-4 col-md-6 col-sm-12">
+                                        <div class="price-card">
+                                            <div class="card-left">
+                                                <img src="./assets/images/card/bawangputih.png" alt="Bawang Putih">
+                                                <span class="price-change green"><i class="lni lni-arrow-angular-top-right rotated"></i>+0.52% | Rp70</span>
+                                            </div>
+                                            <div class="card-right">
+                                                <h4>Bawang Putih</h4>
+                                                <p>Rp40.129 / kg</p>
+                                                <img src="./assets/images/card/graphup.svg" alt="Graph">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4 col-md-6 col-sm-12">
+                                        <div class="price-card">
+                                            <div class="card-left">
+                                                <img src="./assets/images/card/cabai.png" alt="Bawang Putih">
+                                                <span class="price-change red"><i class="lni lni-arrow-angular-top-left"></i>+0.52% | Rp70</span>
+                                            </div>
+                                            <div class="card-right">
+                                                <h4>Cabai Merah Besar</h4>
+                                                <p>Rp81.178 / kg</p>
+                                                <img src="./assets/images/card/graphdown.svg" alt="Graph">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <div class="col-lg-4 col-md-6 col-sm-12">
+                                        <div class="price-card">
+                                            <div class="card-left">
+                                                <img src="./assets/images/card/ayam.png" alt="Ayam">
+                                                <span class="price-change red"><i class="lni lni-arrow-angular-top-left"></i>+0.52% | Rp70</span>
+                                            </div>
+                                            <div class="card-right">
+                                                <h4>Daging Ayam</h4>
+                                                <p>Rp65.135 / kg</p>
+                                                <img src="./assets/images/card/graphdown.svg" alt="Graph">
+                                            </div>
+                                        </div>
+                                    </div>
+                                    <!-- Tambahkan Card Lainnya -->
+                                </div>
+                            </div>
+                            
+                            
+                      </div>
+                    </div>
+                    <div class="carousel-pagination">
+                        <button class="btn-carousel-prev" type="button" data-bs-target="#priceCarousel" data-bs-slide="prev">
+                          <i class="lni lni-chevron-left"></i>
+                        </button>
+                        <span class="page-indicator">Page 1 / 4</span>
+                        <button class="btn-carousel-next" type="button" data-bs-target="#priceCarousel" data-bs-slide="next">
+                          <i class="lni lni-chevron-left rotated"></i>
+                        </button>
+                    </div>                    
+                </div>
+            </div>
+
+            <div class="price-section">
+                <div class="row">
+                    <!-- Kolom 1 -->
+                    <div class="col-lg-6 col-md-12">
+                        <h3 class="table-title">Harga Rata-Rata<br><span class="highlight">Harian Nasional</span></h3>
+                        <div class="custom-table-wrapper">
+                            <table class="custom-table">
+                                <thead>
+                                    <tr>
+                                        <th>Komoditas</th>
+                                        <th>Harga</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>Daging Ayam</td>
+                                        <td>Rp72.000/kg</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Beras Medium</td>
+                                        <td>Rp72.000/kg</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Cabai Rawit Merah</td>
+                                        <td>Rp72.000/kg</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Barang Putih</td>
+                                        <td>Rp72.000/kg</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Tepung Terigu</td>
+                                        <td>Rp72.000/kg</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Minyak Premium</td>
+                                        <td>Rp72.000/kg</td>
+                                    </tr>  
+                                    <tr>
+                                        <td>Daging Sapi</td>
+                                        <td>Rp72.000/kg</td>
+                                    </tr> 
+                                    <tr>
+                                        <td>Kacang Tanah</td>
+                                        <td>Rp72.000/kg</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Daging Ayam</td>
+                                        <td>Rp72.000/kg</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Daging Ayam</td>
+                                        <td>Rp72.000/kg</td>
+                                    </tr>                                                                                                                                                                                                                                                                                               
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+    
+                    <!-- Kolom 2 -->
+                    <div class="col-lg-6 col-md-12">
+                        <h3 class="table-title">Harga Rata-Rata<br><span class="highlight">Harian Madura</span></h3>
+                        <div class="custom-table-wrapper">
+                            <table class="custom-table">
+                                <thead>
+                                    <tr>
+                                        <th>Komoditas</th>
+                                        <th>Harga</th>
+                                    </tr>
+                                </thead>
+                                <tbody>
+                                    <tr>
+                                        <td>Daging Ayam</td>
+                                        <td>Rp72.000/kg</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Beras Medium</td>
+                                        <td>Rp72.000/kg</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Cabai Rawit Merah</td>
+                                        <td>Rp72.000/kg</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Barang Putih</td>
+                                        <td>Rp72.000/kg</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Tepung Terigu</td>
+                                        <td>Rp72.000/kg</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Minyak Premium</td>
+                                        <td>Rp72.000/kg</td>
+                                    </tr>  
+                                    <tr>
+                                        <td>Daging Sapi</td>
+                                        <td>Rp72.000/kg</td>
+                                    </tr> 
+                                    <tr>
+                                        <td>Kacang Tanah</td>
+                                        <td>Rp72.000/kg</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Daging Ayam</td>
+                                        <td>Rp72.000/kg</td>
+                                    </tr>
+                                    <tr>
+                                        <td>Daging Ayam</td>
+                                        <td>Rp72.000/kg</td>
+                                    </tr>                                                                                                                                                                                                                                                                                               
+                                </tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+            </div>            
+
+            <div class="chart-section">
+                <div class="chart-container">
+                  <div class="chart-header">
+                    <h2>Rp 1.611.751.507 <span class="change green">▲ 139,68%</span></h2>
+                    <button class="info-btn"><i class="lni lni-question-circle"></i></button>
+                  </div>
+                  <canvas id="priceChart"></canvas>
+                  <div class="chart-footer">
+                    <div class="time-range">
+                      <button class="btn-time-range">24 JAM</button>
+                      <button class="btn-time-range">1 MGG</button>
+                      <button class="btn-time-range">1M</button>
+                      <button class="btn-time-range active">1 THN</button>
+                      <button class="btn-time-range">SEMUA</button>
+                    </div>
+                  </div>
+                </div>
+            </div>
+
+          </div>
+        </div>
+    </section>
+    <!-- End Hero Area -->
+
+    <!-- ========================= scroll-top ========================= -->
+    <a href="#" class="scroll-top">
+        <i class="lni lni-chevron-up"></i>
+    </a>
+
+    <!-- ========================= JS here ========================= -->
+    <script src="assets/js/bootstrap.min.js"></script>
+    <script src="assets/js/wow.min.js"></script>
+    <script src="assets/js/tiny-slider.js"></script>
+    <script src="assets/js/glightbox.min.js"></script>
+    <script src="assets/js/count-up.min.js"></script>
+    <script src="assets/js/main.js"></script>
+    <script src="./node_modules/chart.js/dist/chart.umd.js"></script>
+    <script>
+        const ctx = document.getElementById('priceChart').getContext('2d');
+
+        const priceChart = new Chart(ctx, {
+        type: 'line',
+        data: {
+            labels: ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'], // Data bulan
+            datasets: [
+            {
+                label: 'Harga Kabupaten',
+                data: [618649475, 650000000, 670000000, 680000000, 710000000, 750000000, 800000000, 850000000, 900000000, 1000000000, 1300000000, 1611751507], // Data dummy
+                borderColor: '#FFA726',
+                backgroundColor: 'rgba(255, 167, 38, 0.2)',
+                borderWidth: 2,
+                pointRadius: 0,
+                fill: true,
+            },
+            {
+                label: 'Harga Nasional',
+                data: [600000000, 630000000, 660000000, 670000000, 700000000, 720000000, 740000000, 800000000, 850000000, 900000000, 1200000000, 1712254795], // Data dummy
+                borderColor: '#000',
+                backgroundColor: 'rgba(0, 0, 0, 0.2)',
+                borderWidth: 2,
+                pointRadius: 0,
+                fill: true,
+            },
+            ],
+        },
+        options: {
+            responsive: true,
+            plugins: {
+            legend: {
+                display: true,
+                position: 'bottom',
+            },
+            },
+            scales: {
+            x: {
+                grid: {
+                display: false,
+                },
+            },
+            y: {
+                beginAtZero: false,
+                ticks: {
+                callback: (value) => `Rp${value.toLocaleString()}`, // Format rupiah
+                },
+            },
+            },
+        },
+        });        
+    </script>
+    <script>
+
+        //========= testimonial 
+        tns({
+            container: '.testimonial-slider',
+            items: 3,
+            slideBy: 'page',
+            autoplay: false,
+            mouseDrag: true,
+            gutter: 0,
+            nav: true,
+            controls: false,
+            responsive: {
+                0: {
+                    items: 1,
+                },
+                540: {
+                    items: 1,
+                },
+                768: {
+                    items: 2,
+                },
+                992: {
+                    items: 2,
+                },
+                1170: {
+                    items: 3,
+                }
+            }
+        });
+
+        //====== counter up 
+        var cu = new counterUp({
+            start: 0,
+            duration: 2000,
+            intvalues: true,
+            interval: 100,
+            append: " ",
+        });
+        cu.start();
+
+        //========= glightbox
+        GLightbox({
+            'href': 'https://www.youtube.com/watch?v=r44RKWyfcFw&fbclid=IwAR21beSJORalzmzokxDRcGfkZA1AtRTE__l5N4r09HcGS5Y6vOluyouM9EM',
+            'type': 'video',
+            'source': 'youtube', //vimeo, youtube or local
+            'width': 900,
+            'autoplayVideos': true,
+        });
+
+    </script>
+</body>
+
+</html>
